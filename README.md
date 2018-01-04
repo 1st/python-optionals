@@ -1,6 +1,7 @@
 # Optionals in Python
 
-> Adding optional variables in Python. It allows you to do `user.profile.username` and don't care about what will happen if `user` or `user.profile` is `None`. It looks similar to what you can do in `Swift` when you write this code `user?.profile?.username`.
+> It adds optional variables to Python.
+> It allows you to do `user.profile.username` and don't care about what will happen if `user` or `user.profile` is `None`. It looks similar to what you can do in `Swift` when you write this code `user?.profile?.username`.
 
 ### How to install
 
